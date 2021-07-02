@@ -15,3 +15,8 @@ $ git pull
 # all these commands will sync the repo then start working
 
 $ code . will open the editor
+
+after finishing work
+$ git add .
+$ git commit -a
+$ git push
