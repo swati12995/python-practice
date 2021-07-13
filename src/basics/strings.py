@@ -71,3 +71,14 @@ print("Hello, Her name is", {name})
 print("Python rules!")
 print('%s' % 'Python')
 print('%s %s' % ('Python', 'rules!'))
+s = 'hello'
+# Print out 'e' using indexing
+print(s[1])
+# Reverse the string using slicing
+print(s[::-1])
+# Print out the 'o'
+
+# Method 1:
+print(s[4])
+# Method 2:
+print(s[-1])
