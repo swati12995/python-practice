@@ -23,4 +23,3 @@ for letter in word:
 word = "qwertyuiop"
 for i in enumerate(word):
     print(i)
-# comments added
